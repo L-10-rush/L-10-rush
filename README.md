@@ -26,4 +26,4 @@ Deeply curious about cybersecurity and the power of automation. I love the cycle
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/aniket-mondal-091078332/?trk=opento_sprofile_goalscard" target="_blank">k1ngP1ng</a> Email: mondalaniket2005@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/aniket-mondal-091078332/?trk=opento_sprofile_goalscard" target="_blank">k1ngM0nk</a> Email: mondalaniket2005@gmail.com</p>
