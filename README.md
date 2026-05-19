@@ -15,6 +15,8 @@ Deeply curious about cybersecurity and the power of automation. I love the cycle
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"> 
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"> 
 
 ## GitHub Stats
 
